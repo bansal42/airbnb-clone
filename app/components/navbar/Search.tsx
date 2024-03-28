@@ -42,7 +42,7 @@ const Search = () =>{
                         text-gray-600
                         flex
                         flex-row
-                        text-center
+                        items-center
                         gap-3
                     "
                 >
